@@ -1,0 +1,2 @@
+# Do not sync configuration.nix, sets which configuration to use
+configuration.nix
