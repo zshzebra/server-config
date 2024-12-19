@@ -45,7 +45,7 @@
   environment.pathsToLink = ["/share/zsh"];
 
   environment.systemPackages = with pkgs; [
-    vim
+    neovim
     wget
     curl
     zsh-powerlevel10k
