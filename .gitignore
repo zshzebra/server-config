@@ -1,2 +1,5 @@
 # Do not sync configuration.nix, sets which configuration to use
 configuration.nix
+
+# DO NOT COMMIT
+hardware-configuration.nix
