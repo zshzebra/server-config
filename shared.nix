@@ -49,6 +49,7 @@
     wget
     curl
     zsh-powerlevel10k
+    git
   ];
 
   fonts.packages = with pkgs; [ (nerdfonts.override { fonts = [ "JetBrainsMono" ]; }) ];
